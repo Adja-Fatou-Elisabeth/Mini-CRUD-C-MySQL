@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDMYSQL", "CRUDMYSQL\CRUDMYSQL.csproj", "{30C7B65C-2824-4E26-B703-53F43A568AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30C7B65C-2824-4E26-B703-53F43A568AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C7B65C-2824-4E26-B703-53F43A568AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C7B65C-2824-4E26-B703-53F43A568AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C7B65C-2824-4E26-B703-53F43A568AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A713CDC0-FE8E-4582-A698-6C3936F6E167}
+	EndGlobalSection
+EndGlobal
